@@ -1,0 +1,32 @@
+# Music Store Analysis
+
+## Overview
+
+Welcome to the Music Store Analysis project, where we dive deep into the world of music store data using SQL queries and visualizations. In this analysis, I've explored customer spending, genre preferences, monthly sales trends, and employee performance.
+
+## Files
+
+- `SQL_PROJECT.zip`: Contains a ZIP archive with the SQL queries used for analysis and the analysis presentation in a PDF file.
+
+## Key Insights
+
+1. **Which countries have the least total spending on music purchases?**
+   - In countries such as Belgium, Spain, and Argentina, spending remains consistently low at $37.62. This suggests an opportunity for growth by understanding and addressing customer preferences to encourage increased spending.
+
+2. **Which genre is the most popular among customers in different countries?**
+   - Rock music is the most popular genre among customers in numerous countries, with Latin music being notably favored in Sweden. By researching sales data by genre and country, music companies can make informed choices about where to focus their resources and how to diversify their catalog.
+
+3. **How does monthly sales revenue vary over time?**
+   - The sales trend shows consistent monthly revenue at around $37.62, providing a useful baseline for future expectations.
+
+4. **Which employee has the highest total sales amount, and how does their performance compare?**
+   - Jane Peacock is the top performer with the highest sales amount of $833.04 and 146 total sales, while Margaret Park and Steve Johnson maintain consistent sales performance with 140 and 126 total sales, respectively. Incentives and Bonuses can keep the consistency going with all the Sales Employees.
+
+## SQL Queries and Analysis Presentation
+
+You can access both the SQL queries used in this analysis and the analysis presentation in the [SQL_PROJECT.zip](SQL_PROJECT.zip) file. Simply unzip the archive to access the individual files.
+
+## Contributing
+
+Contributions and feedback are welcome. Feel free to open issues or provide insights to enhance this analysis further.
+
